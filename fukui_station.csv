@@ -1,4 +1,4 @@
-﻿number,date,time,gender,age,accuracy,nationality1,accuracy,nationality2,accuracy,nationality3,accuracy,direction
+﻿number,date,time,gender,age,accuracy0,nationality1,accuracy1,nationality2,accuracy2,nationality3,accuracy3,direction
 1,2024年10月30日,0:02,0,83,0.66,0,0.22,1,0.52,0,0.44,0.05
 2,2024年10月30日,0:02,1,70,0.73,0,0.88,1,0.71,0,0.40,0.11
 3,2024年10月30日,0:04,1,41,0.49,0,0.73,1,0.07,0,0.30,0.76
